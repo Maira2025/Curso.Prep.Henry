@@ -1,0 +1,6 @@
+VARIABLE :  Es una forma de guardar informcion para utilizarla despues , ya sea para modificarla y para realizar confguraciones.y su forma abreviada es Var
+funciones : Argumento :es una variable utilizada para recibir valores de entrada en una rutina, subrutina o método. Dichos valores, que serán enviados desde la rutina invocante, son llamados argumentos.
+return: es devolver  el resultado de los valores  que se han  ingresado  ya sea para modificarlos  o  para cambiarlos .
+valores boleanos : son  expreciones binarias con dos respuestas verdadero o falso; 0 y 1. 
+
+npm install
